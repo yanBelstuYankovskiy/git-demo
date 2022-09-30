@@ -48,7 +48,7 @@ Environment:
 
 ### Test ID: 3
 
-####Title: Adding SSD with size 500Gb to the bucket
+#### Title: Adding SSD with size 500Gb to the bucket
 
 #### Pre-requirements:
 1. Opened main page:https: //www.amd.by/simplecheckout/
